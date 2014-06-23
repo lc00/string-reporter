@@ -11,14 +11,8 @@ document.write(
 
 	);
 
+console.log(
+	"you entered: " + userInput + '\n' +
+	"yes"
 
-// alert(userInput);
-
-
-
-// alert(userInput.length);
-// alert(userInput.charAt(2));
-// alert(userInput.toLowerCase());
-// alert(userInput.toUpperCase());
-// alert("What is hot in " + userInput);
-// alert(userInput.substring(1,[4]));
+	);
